@@ -11,4 +11,5 @@
 
 ![coldoe's github stats](https://github-readme-stats.vercel.app/api?username=coldoe&show_icons=true&theme=radical&show_icons=true)
 
+Check pinned repos below :cowboy_hat_face:
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldoe&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
