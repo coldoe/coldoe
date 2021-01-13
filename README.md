@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello there👋 My name is Kamil.:love_you_gesture:
 
-<!--
-**coldoe/coldoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Technologies that I've worked with
+:point_right: Java, Spring Boot:star_struck:, RESTful Api:star_struck:, MVC:star_struck:, Thymeleaf:star_struck:, Swing, Hibernate:star_struck: \
+:point_right: C#, .Net MVC, .NET Core, LinQ:star_struck:, WPF, WinForms \
+:point_right: Mssql:star_struck:, Mysql, Firebase, MongoDB, T-SQL, PL/SQL \
+:point_right: JS, Node.js, Express.js:star_struck:, TypeScript, Angular, React:star_struck:, Bootstrap:star_struck:, Materialize:star_struck: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats to prove I code "sometimes":laughing: :muscle: :brain: :relaxed:
+
+![coldoe's github stats](https://github-readme-stats.vercel.app/api?username=coldoe&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldoe&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
