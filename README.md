@@ -2,7 +2,7 @@
 
 
 ## Technologies that I've worked with
-:point_right: Java, Spring Boot:star_struck:, RESTful Api:star_struck:, MVC:star_struck:, Thymeleaf:star_struck:, Swing, Hibernate:star_struck: \, Servlets, JPA, JDBC, JSP
+:point_right: Java, Spring Boot:star_struck:, RESTful Api:star_struck:, MVC:star_struck:, Thymeleaf:star_struck:, Swing, Hibernate:star_struck:, Servlets, JPA, JDBC, JSP \
 :point_right: C#, .Net MVC, .NET Core, LinQ:star_struck:, WPF, WinForms \
 :point_right: Mssql:star_struck:, Mysql, Firebase, MongoDB, T-SQL, PL/SQL \
 :point_right: JS, Node.js, Express.js:star_struck:, TypeScript, Angular, React:star_struck:, Bootstrap:star_struck:, Materialize:star_struck: 
